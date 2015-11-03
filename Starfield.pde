@@ -18,7 +18,7 @@ void setup()
 void draw()
 {
 	background (0);
-	if (keyPressed == true && key== 'b')
+	if (keyPressed == true && key== 'c')
   	{
   		image(photo, 250, 250);
   	}
